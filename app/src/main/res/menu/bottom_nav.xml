@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/instructions"
+        android:icon="@drawable/baseline_info_24"
+        android:title="Instructions"/>
+
+    <item
+        android:id="@+id/leader_boards"
+        android:icon="@drawable/baseline_leaderboard_24"
+        android:title="LeaderBoards"/>
+
+</menu>
